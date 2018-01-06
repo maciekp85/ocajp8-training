@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/enthuware-examples/enthuware-examples.iml" filepath="$PROJECT_DIR$/enthuware-examples/enthuware-examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/vavatech-examples/vavatech-examples.iml" filepath="$PROJECT_DIR$/vavatech-examples/vavatech-examples.iml" />
     </modules>
   </component>
