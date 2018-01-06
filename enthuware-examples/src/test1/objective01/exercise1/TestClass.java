@@ -1,4 +1,4 @@
-package test1.objective01;
+package test1.objective01.exercise1;
 
 // Error: Could not find or load main class TestClass
 // It will throw an Error at runtime.
