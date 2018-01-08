@@ -1,4 +1,4 @@
-package test1.objective4.exercise1;
+package test1.objective04.exercise1;
 
 public class Test1 {
 
