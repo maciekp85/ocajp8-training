@@ -19,6 +19,7 @@ public class ListOfNumbers {
   public void writeList() {
     PrintWriter out = null;
     try {
+      System.out.println("Entering try statement");
       // The FileWriter constructor throws IOException, which must be caught.
       out = new PrintWriter( new FileWriter( "OutFile.txt" ) );
 
