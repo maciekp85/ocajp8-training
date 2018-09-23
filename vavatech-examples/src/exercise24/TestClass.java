@@ -6,6 +6,6 @@ public class TestClass {
 //    System.out.println(args[1rstArg]);
 
     int rstArg = Integer.parseInt( args[1] );
-    System.out.println(args[rstArg]);
+    System.out.println(rstArg);
   }
 }
